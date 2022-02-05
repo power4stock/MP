@@ -1,0 +1,2 @@
+getattr,
+setattr, 就是一个负责修改类字典的方法
